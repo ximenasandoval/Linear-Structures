@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1551401849 source:c:\users\sandu_000\desktop\problemabasesdatos\main.cpp
+	<iostream>
+	"baseDatos.h"
+
+1551321308 source:c:\users\sandu_000\desktop\problemabasesdatos\pila.cpp
+	"pila.h"
+
+1551321304 c:\users\sandu_000\desktop\problemabasesdatos\pila.h
+	<iostream>
+	<cstdlib>
+
+1551401742 c:\users\sandu_000\desktop\problemabasesdatos\indice.h
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1551414949 source:c:\users\sandu_000\desktop\problemabasesdatos\indice.cpp
+	"indice.h"
+
+1551401864 source:c:\users\sandu_000\desktop\problemabasesdatos\basedatos.cpp
+	<iostream>
+	<cstdlib>
+	"baseDatos.h"
+
+1551321312 c:\users\sandu_000\desktop\problemabasesdatos\basedatos.h
+	"pila.h"
+	"indice.h"
+
+1551294850 source:g:\estructuras de datos\problemabasesdatos\basedatos.cpp
+	<iostream>
+	<cstdlib>
+	"baseDatos.h"
+
+1551294850 g:\estructuras de datos\problemabasesdatos\basedatos.h
+	"pila.h"
+	"indice.h"
+
+1551144204 g:\estructuras de datos\problemabasesdatos\pila.h
+	<iostream>
+	<cstdlib>
+
+1551294714 g:\estructuras de datos\problemabasesdatos\indice.h
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1551294738 source:g:\estructuras de datos\problemabasesdatos\indice.cpp
+	"indice.h"
+
+1551294874 source:g:\estructuras de datos\problemabasesdatos\main.cpp
+	<iostream>
+	"baseDatos.h"
+
+1551294640 source:g:\estructuras de datos\problemabasesdatos\pila.cpp
+	"pila.h"
+
+1551401864 source:c:\users\sandu_000\desktop\mxsh-problemabasesdatos\basedatos.cpp
+	<iostream>
+	<cstdlib>
+	"baseDatos.h"
+
+1551321312 c:\users\sandu_000\desktop\mxsh-problemabasesdatos\basedatos.h
+	"pila.h"
+	"indice.h"
+
+1551321304 c:\users\sandu_000\desktop\mxsh-problemabasesdatos\pila.h
+	<iostream>
+	<cstdlib>
+
+1551401742 c:\users\sandu_000\desktop\mxsh-problemabasesdatos\indice.h
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1551414949 source:c:\users\sandu_000\desktop\mxsh-problemabasesdatos\indice.cpp
+	"indice.h"
+
+1551401849 source:c:\users\sandu_000\desktop\mxsh-problemabasesdatos\main.cpp
+	<iostream>
+	"baseDatos.h"
+
+1551321308 source:c:\users\sandu_000\desktop\mxsh-problemabasesdatos\pila.cpp
+	"pila.h"
+
+1551401864 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabasesdatos\basedatos.cpp
+	<iostream>
+	<cstdlib>
+	"baseDatos.h"
+
+1551502896 c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabasesdatos\basedatos.h
+	"pila.h"
+	"indice.h"
+
+1551503309 c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabasesdatos\pila.h
+	<iostream>
+	<cstdlib>
+
+1551502687 c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabasesdatos\indice.h
+	<iostream>
+	<cstdlib>
+	"pila.h"
+
+1551489448 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabasesdatos\indice.cpp
+	"indice.h"
+
+1551401849 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabasesdatos\main.cpp
+	<iostream>
+	"baseDatos.h"
+
+1551321308 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabasesdatos\pila.cpp
+	"pila.h"
+

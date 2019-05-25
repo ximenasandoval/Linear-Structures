@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1550895001 source:c:\users\sandu_000\desktop\problemabancos\cola.cpp
+	<iostream>
+	<cstdlib>
+	"auxiliares.h"
+
+1551321290 c:\users\sandu_000\desktop\problemabancos\auxiliares.h
+	<iostream>
+	<cstdlib>
+	<limits>
+	<windows.h>
+
+1551321290 source:c:\users\sandu_000\desktop\problemabancos\auxiliares.cpp
+	"auxiliares.h"
+	"cajeras.h"
+
+1551321292 c:\users\sandu_000\desktop\problemabancos\cajeras.h
+
+1551321292 source:c:\users\sandu_000\desktop\problemabancos\cajeras.cpp
+	"cajeras.h"
+	"auxiliares.h"
+
+1550895944 source:c:\users\sandu_000\desktop\problemabancos\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	"auxiliares.h"
+	"cajeras.h"
+	"cola.h"
+
+1550895783 c:\users\sandu_000\desktop\problemabancos\cola.h
+	<iostream>
+	<cstdlib>
+	"auxiliares.h"
+
+1550895784 source:g:\estructuras de datos\problemabancos\auxiliares.cpp
+	"auxiliares.h"
+	"cajeras.h"
+
+1550895720 g:\estructuras de datos\problemabancos\auxiliares.h
+	<iostream>
+	<cstdlib>
+	<limits>
+	<windows.h>
+
+1550895536 g:\estructuras de datos\problemabancos\cajeras.h
+
+1550895784 source:g:\estructuras de datos\problemabancos\cajeras.cpp
+	"cajeras.h"
+	"auxiliares.h"
+
+1551296016 source:g:\estructuras de datos\problemabancos\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	"auxiliares.h"
+	"cajeras.h"
+	"cola.h"
+
+1550895784 g:\estructuras de datos\problemabancos\cola.h
+	<iostream>
+	<cstdlib>
+	"auxiliares.h"
+
+1551321290 source:c:\users\sandu_000\desktop\mxsh-problemabancos\auxiliares.cpp
+	"auxiliares.h"
+	"cajeras.h"
+
+1551321290 c:\users\sandu_000\desktop\mxsh-problemabancos\auxiliares.h
+	<iostream>
+	<cstdlib>
+	<limits>
+	<windows.h>
+
+1551321292 c:\users\sandu_000\desktop\mxsh-problemabancos\cajeras.h
+
+1551321292 source:c:\users\sandu_000\desktop\mxsh-problemabancos\cajeras.cpp
+	"cajeras.h"
+	"auxiliares.h"
+
+1551490095 source:c:\users\sandu_000\desktop\mxsh-problemabancos\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	"auxiliares.h"
+	"cajeras.h"
+	"cola.h"
+
+1551321294 c:\users\sandu_000\desktop\mxsh-problemabancos\cola.h
+	<iostream>
+	<cstdlib>
+	"auxiliares.h"
+
+1551321290 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabancos\auxiliares.cpp
+	"auxiliares.h"
+	"cajeras.h"
+
+1551503347 c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabancos\auxiliares.h
+	<iostream>
+	<limits>
+	<windows.h>
+
+1551321292 c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabancos\cajeras.h
+
+1551321292 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabancos\cajeras.cpp
+	"cajeras.h"
+	"auxiliares.h"
+
+1551500135 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabancos\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<fstream>
+	"auxiliares.h"
+	"cajeras.h"
+	"cola.h"
+
+1551500319 c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabancos\cola.h
+	<iostream>
+	<cstdlib>
+	"auxiliares.h"
+
+1551500368 source:c:\users\sandu_000\desktop\mxsh-ii parcial\mxsh-problemabancos\cola.cpp
+	"auxiliares.h"
+	"cola.h"
+
